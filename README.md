@@ -1,22 +1,7 @@
-# TeamGroot-HR
+# Save Gudetama
 > Welcome to the Save Gudetama typing game! 
 >
 > Play against yourself and beat your highscore or play online in multiplayer mode.
-
-## About this project
-This app was build during HackReactor's 15th NYC cohort. Our Team took over the project as legacy code, which has been built by another group the week before. Our team added a few features during one week.
-
-## What existed
-The functionality of the game itself existed already. MultiPlayer was possible, but more than 2 players online would crash the app. Also the UI/UX was unintuitive.
-
-## What we added
-- The ability to choose Single or MultiPlayer.
-- Allowing multiple rooms to host matches at the same time
-- Random player matching functionality
-- Challenging another user that is online
-- Different modes for single player (easy, medium, difficult)
-- Design improvements
-- Bug fixes
 
 ## Our Team
   - __Product Owner__: Laurents Mohr https://github.com/laurentsmohr
